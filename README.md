@@ -1,4 +1,4 @@
-# Synthetic Data by LLMs and for LLMs
+# Large Language Model (LLMs) Generated Synthetic Data: By and For LLMs
 
 <div align="center">
 
