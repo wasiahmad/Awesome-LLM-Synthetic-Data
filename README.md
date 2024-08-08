@@ -1,4 +1,4 @@
-# Large Language Model (LLMs) Generated Synthetic Data: By and For LLMs
+# Synthetic Data of LLMs, by LLMs, for LLMs
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 </div>
 
-This repo includes papers and blogs about Synthetic Data Generation by LLMs and for LLMs.
+This repo includes papers and blogs about Synthetic Data of LLMs, by LLMs, for LLMs.
 
 Thanks for all the great contributors on GitHub!🔥⚡🔥
 
