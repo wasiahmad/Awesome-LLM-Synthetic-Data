@@ -19,6 +19,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 * [1. Survey Papers](#1-Survey-Papers)
 * [2. Mathematical Reasoning](#2-Mathematical-Reasoning)
+* [3. Blogs](#3-Blogs)
 
 
 ## 📜 Papers
@@ -33,3 +34,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs.**](https://arxiv.org/abs/2402.16352) *Zimu Lu, Aojun Zhou, Houxing Ren, Ke Wang, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li.* Arxiv 2024.
 
+### 3. Blogs
+
+1. [**https://huggingface.co/blog/davanstrien/self-instruct.**](https://huggingface.co/blog/davanstrien/self-instruct) *Daniel van Strien.* 2024
