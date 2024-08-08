@@ -1,4 +1,4 @@
-# Synthetic Data Generation by LLMs and for LLMs
+# Synthetic Data by LLMs and for LLMs
 
 <div align="center">
 
