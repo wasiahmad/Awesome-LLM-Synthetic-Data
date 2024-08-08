@@ -38,3 +38,4 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ## 2. Blogs
 
 1. [**https://huggingface.co/blog/davanstrien/self-instruct.**](https://huggingface.co/blog/davanstrien/self-instruct) *Daniel van Strien.* 2024
+2. [**LLM-Driven Synthetic Data Generation, Curation & Evaluation.**](https://cobusgreyling.medium.com/llm-driven-synthetic-data-generation-curation-evaluation-33731e33b525) *Cobus Greyling.* 2024
