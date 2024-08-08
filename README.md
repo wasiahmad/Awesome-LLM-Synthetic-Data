@@ -1,4 +1,4 @@
-# Papers on Synthetic Data Generation by LLMs and for LLMs
+# Synthetic Data Generation by LLMs and for LLMs
 
 <div align="center">
 
