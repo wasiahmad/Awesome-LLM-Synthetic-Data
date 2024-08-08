@@ -32,6 +32,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 > You can directly click on the title to jump to the corresponding PDF link location
 
 ### 1.1. Survey Papers
+- [**Best Practices and Lessons Learned on Synthetic Data for Language Models.**](https://arxiv.org/abs/2404.07503) *Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai.* Arxiv 2024.
 - [**On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey.**](https://arxiv.org/abs/2406.15126) *Lin Long, Rui Wang, Ruixuan Xiao, Junbo Zhao, Xiao Ding, Gang Chen, Haobo Wang.* Arxiv 2024.
 - [**Generative AI for Synthetic Data Generation: Methods, Challenges and the Future.**](https://arxiv.org/abs/2403.04190) *Xu Guo, Yiqiang Chen.* Arxiv 2024.
 - [**Comprehensive Exploration of Synthetic Data Generation: A Survey.**](https://arxiv.org/abs/2401.02524) *André Bauer, Simon Trapp, Michael Stenger, Robert Leppich, Samuel Kounev, Mark Leznik, Kyle Chard, Ian Foster.* Arxiv 2024.
