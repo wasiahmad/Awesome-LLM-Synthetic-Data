@@ -19,7 +19,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 * [1. Papers](#1-Papers)
   * [1.1 Survey Papers](#11-Survey-Papers)
-  * [1.2 Mathematical Reasoning](#12-Mathematical-Reasoning)
+  * [1.2 Preference Optimization](#12-Preference-Optimization)
+  * [1.3 Mathematical Reasoning](#13-Mathematical-Reasoning)
 * [2. Blogs](#1-Blogs)
 
 
@@ -31,7 +32,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey.**](https://arxiv.org/abs/2406.15126) *Lin Long, Rui Wang, Ruixuan Xiao, Junbo Zhao, Xiao Ding, Gang Chen, Haobo Wang.* Arxiv 2024.
 
-### 1.2. Mathematical Reasoning
+### 1.2. Preference Optimization
+
+1. [**REFINED DIRECT PREFERENCE OPTIMIZATION WITH SYNTHETIC DATA FOR BEHAVIORAL ALIGNMENT OF LLMS.**](https://arxiv.org/abs/2402.08005) *V´ıctor Gallego.* Arxiv 2024.
+
+### 1.3. Mathematical Reasoning
 
 1. [**MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs.**](https://arxiv.org/abs/2402.16352) *Zimu Lu, Aojun Zhou, Houxing Ren, Ke Wang, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li.* Arxiv 2024.
 
