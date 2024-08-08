@@ -19,10 +19,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 * [1. Papers](#1-Papers)
   * [1.1 Survey Papers](#11-Survey-Papers)
-  * [1.2 Preference Optimization](#12-Preference-Optimization)
-  * [1.3 Mathematical Reasoning](#13-Mathematical-Reasoning)
-  * [1.4 Code Generation](#14-Code-Generation)
-  * [1.5 Reward Modeling](#15-Reward-Modeling)
+  * [1.2 Generalized Instruction Data](#12-Generalized-Instruction-Data)
+  * [1.3 Mathematical Reasoning](#14-Mathematical-Reasoning)
+  * [1.4 Code Generation](#15-Code-Generation)
+  * [1.5 Preference Optimization](#13-Preference-Optimization)
+  * [1.6 Reward Modeling](#16-Reward-Modeling)
 * [2. Tools](#2-Tools)
 * [3. Blogs](#3-Blogs)
 
@@ -37,8 +38,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Generative AI for Synthetic Data Generation: Methods, Challenges and the Future.**](https://arxiv.org/abs/2403.04190) *Xu Guo, Yiqiang Chen.* Arxiv 2024.
 - [**Comprehensive Exploration of Synthetic Data Generation: A Survey.**](https://arxiv.org/abs/2401.02524) *André Bauer, Simon Trapp, Michael Stenger, Robert Leppich, Samuel Kounev, Mark Leznik, Kyle Chard, Ian Foster.* Arxiv 2024.
 
-### 1.2. Preference Optimization
-- [**Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs.**](https://arxiv.org/abs/2402.08005) *V´ıctor Gallego.* Arxiv 2024.
+### 1.2. Generalized Instruction Data
+- [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models.**](https://arxiv.org/abs/2402.13064) *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei.* Arxiv 2024.
 
 ### 1.3. Mathematical Reasoning
 - [**MuggleMath: Assessing the Impact of Query and Response Augmentation on Math Reasoning.**](https://arxiv.org/abs/2310.05506v3) *Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou.* ACL 2024.
@@ -49,7 +50,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ### 1.4. Code Generation
 - [**Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models.**](https://arxiv.org/abs/2407.21077) *Somshubra Majumdar, Vahid Noroozi, Sean Narenthiran, Aleksander Ficek, Jagadeesh Balam, Boris Ginsburg.* Arxiv 2024.
 
-### 1.5. Reward Modeling
+### 1.5. Preference Optimization
+- [**Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs.**](https://arxiv.org/abs/2402.08005) *V´ıctor Gallego.* Arxiv 2024.
+
+### 1.6. Reward Modeling
 - [**West-of-N: Synthetic Preference Generation for Improved Reward Modeling.**](https://arxiv.org/abs/2401.12086) *Alizée Pace, Jonathan Mallinson, Eric Malmi, Sebastian Krause, Aliaksei Severyn.* Arxiv 2024.
 
 ## 2. Tools
