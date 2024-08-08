@@ -22,8 +22,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   * [1.2 Preference Optimization](#12-Preference-Optimization)
   * [1.3 Mathematical Reasoning](#13-Mathematical-Reasoning)
   * [1.4 Code Generation](#14-Code-Generation)
-  * [1.5 Reward Modeling](#14-Reward-Modeling)
-* [2. Tools](#2-Blogs)
+  * [1.5 Reward Modeling](#15-Reward-Modeling)
+* [2. Tools](#2-Tools)
 * [3. Blogs](#3-Blogs)
 
 
