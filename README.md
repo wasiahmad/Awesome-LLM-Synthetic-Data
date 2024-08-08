@@ -1,4 +1,4 @@
-# Large Language Model Based Synthetic Data Generation Papers
+# Papers on Synthetic Data Generation by LLMs and for LLMs
 
 <div align="center">
 
