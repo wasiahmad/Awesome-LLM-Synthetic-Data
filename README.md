@@ -19,7 +19,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 * [1. Surveys](#11-Surveys)
 * [2. Methods](#2-Methods)
-  * [2.1 Techniques](#2-Techniques)
+  * [2.1 Techniques](#21-Techniques)
   * [2.2 Instruction Generation with High Quality/Complexity](#22-Instruction-Generation-with-High-QualityComplexity)
 * [3. Application Areas](#3-Application-Areas)
   * [3.1 Mathematical Reasoning](#31-Mathematical-Reasoning)
