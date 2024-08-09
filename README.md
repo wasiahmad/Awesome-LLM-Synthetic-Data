@@ -66,7 +66,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ### 3.3. Text-to-SQL
 - [**Synthesizing Text-to-SQL Data from Weak and Strong LLMs.**](https://arxiv.org/abs/2408.03256) *Jiaxi Yang, Binyuan Hui, Min Yang, Jian Yang, Junyang Lin, Chang Zhou.* ACL 2024.
-- 
+
 ### 3.4. Preference Optimization
 - [**Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs.**](https://arxiv.org/abs/2402.08005) *V´ıctor Gallego.* Arxiv 2024.
 
