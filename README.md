@@ -24,6 +24,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   * [1.4 Code Generation](#15-Code-Generation)
   * [1.5 Preference Optimization](#13-Preference-Optimization)
   * [1.6 Reward Modeling](#16-Reward-Modeling)
+  * [1.7 Text-to-SQL](#17-Text-to-SQL)
 * [2. Tools](#2-Tools)
 * [3. Blogs](#3-Blogs)
 
@@ -55,6 +56,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ### 1.6. Reward Modeling
 - [**West-of-N: Synthetic Preference Generation for Improved Reward Modeling.**](https://arxiv.org/abs/2401.12086) *Alizée Pace, Jonathan Mallinson, Eric Malmi, Sebastian Krause, Aliaksei Severyn.* Arxiv 2024.
+
+### 1.7. Text-to-SQL
+- [**Synthesizing Text-to-SQL Data from Weak and Strong LLMs.**](https://arxiv.org/abs/2408.03256) *Jiaxi Yang, Binyuan Hui, Min Yang, Jian Yang, Junyang Lin, Chang Zhou.* ACL 2024.
 
 ## 2. Tools
 - [**DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows.**](https://arxiv.org/abs/2402.10379) *Ajay Patel, Colin Raffel, Chris Callison-Burch.* ACL 2024.
