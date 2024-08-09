@@ -19,6 +19,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 * [1. Surveys](#11-Surveys)
 * [2. Techniques/Methods](#2-Techniques-Methods)
+  * [2.1 Instruction Generation with High Quality/Complexity](#21-Instruction-Generation-with-High-Quality-Complexity)
 * [3. Application Areas](#3-Application-Areas)
   * [3.1 Mathematical Reasoning](#31-Mathematical-Reasoning)
   * [3.2 Code Generation](#32-Code-Generation)
@@ -42,7 +43,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models.**](https://arxiv.org/abs/2401.01335) *Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu.* ICML 2024.
 - [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models.**](https://arxiv.org/abs/2402.13064) *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei.* Arxiv 2024.
 - [**Self-instruct: Aligning language models with self-generated instructions.**](https://arxiv.org/abs/2212.10560) *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* ACL 2023.
+- [**Automatic Instruction Evolving for Large Language Models.**](https://arxiv.org/abs/2406.00770) *Weihao Zeng, Can Xu, Yingxiu Zhao, Jian-Guang Lou, Weizhu Chen.* Arxiv 2024.
 
+### 2.1. Instruction Generation with High Quality/Complexity
+
+- [**CodecLM: Aligning Language Models with Tailored Synthetic Data.**](https://arxiv.org/abs/2404.05875) *Zifeng Wang, Chun-Liang Li, Vincent Perot, Long T. Le, Jin Miao, Zizhao Zhang, Chen-Yu Lee, Tomas Pfister.* Findings of NAACL 2024.
+- [**WizardLM: Empowering Large Language Models to Follow Complex Instructions.**](https://arxiv.org/abs/2304.12244) *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* Arxiv 2023. 
 
 ## 3. Application Areas
 
@@ -67,6 +73,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 4. Datasets
 
+- [**Synthetic-Text-To-SQL: A synthetic dataset for training language models to generate SQL queries from natural language prompts.**](https://huggingface.co/datasets/gretelai/synthetic-text-to-sql) *Meyer, Yev and Emadi, Marjan and Nathawani, Dhruv and Ramaswamy, Lipika and Boyd, Kendrick and Van Segbroeck, Maarten and Grossman, Matthew and Mlocek, Piotr and Newberry, Drew.* Huggingface 2024.
 
 ## 5. Tools
 
