@@ -25,7 +25,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   * [3.1 Mathematical Reasoning](#31-Mathematical-Reasoning)
   * [3.2 Code Generation](#32-Code-Generation)
   * [3.3 Text-to-SQL](#33-Text-to-SQL)
-  * [3.4 Preference Optimization](#34-Preference-Optimization)
+  * [3.4 Alignment](#34-Alignment)
   * [3.5 Reward Modeling](#35-Reward-Modeling)
   * [3.6 Long Context](#36-Long-Context)
   * [3.7 Weak to Strong](#37-Weak-to-Strong)
