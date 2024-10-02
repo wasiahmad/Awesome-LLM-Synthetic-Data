@@ -128,23 +128,20 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Fine-tuning Language Models for Factuality**](https://arxiv.org/abs/2311.08401) *Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn.* Arxiv 2023.
 - [**MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents**](https://arxiv.org/abs/2404.10774) *Liyan Tang, Philippe Laban, Greg Durrett.* Arxiv 2024.
 
-
 ## 4. Datasets
 
 - [**Synthetic-Text-To-SQL: A synthetic dataset for training language models to generate SQL queries from natural language prompts.**](https://huggingface.co/datasets/gretelai/synthetic-text-to-sql) *Meyer, Yev and Emadi, Marjan and Nathawani, Dhruv and Ramaswamy, Lipika and Boyd, Kendrick and Van Segbroeck, Maarten and Grossman, Matthew and Mlocek, Piotr and Newberry, Drew.* Huggingface 2024.
 - [**Open Artificial Knowledge**](https://huggingface.co/datasets/tabularisai/oak) *Vadim Borisov, Richard Schreiber.* ICML Workshop 2024.
-  
 
 ## 5. Tools
 
 - [**DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows.**](https://arxiv.org/abs/2402.10379) *Ajay Patel, Colin Raffel, Chris Callison-Burch.* ACL 2024.
 - [**AgentInstruct: Toward Generative Teaching with Agentic Flows.**](https://arxiv.org/abs/2407.03502) *Arindam Mitra, Luciano Del Corro, Guoqing Zheng, Shweti Mahajan, Dany Rouhana, Andres Codas, Yadong Lu, Wei-ge Chen, Olga Vrousgos, Corby Rosset, Fillipe Silva, Hamed Khanpour, Yash Lara, Ahmed Awadallah.* Arxiv 2024.
-- [**Fuxion: Synthetic data generation and normalization functions using Langchain + LLMs**](https://github.com/tobiadefami/fuxion)
+- [**Distilabel: An AI Feedback (AIF) Framework for Building Datasets with and for LLMs**](https://github.com/argilla-io/distilabel) *Álvaro Bartolomé Del Canto, Gabriel Martín Blázquez, Agustín Piqueres Lajarín and Daniel Vila Suero.* GitHub 2024.
+- [**Fuxion: Synthetic Data Generation and Normalization Functions using Langchain + LLMs**](https://github.com/tobiadefami/fuxion)
 
 ## 6. Blogs
 
 - [**Synthetic dataset generation techniques: Self-Instruct.**](https://huggingface.co/blog/davanstrien/self-instruct) *Daniel van Strien.* 2024
 - [**LLM-Driven Synthetic Data Generation, Curation & Evaluation.**](https://cobusgreyling.medium.com/llm-driven-synthetic-data-generation-curation-evaluation-33731e33b525) *Cobus Greyling.* 2024
 - [**The Rise of Agentic Data Generation.**](https://huggingface.co/blog/mlabonne/agentic-datagen) *Maxime Labonne.* 2024
-
-  
