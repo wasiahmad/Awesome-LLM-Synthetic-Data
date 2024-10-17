@@ -96,10 +96,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**SALMON: Self-Alignment with Instructable Reward Models**](https://arxiv.org/abs/2310.05910) *Zhiqing Sun, Yikang Shen, Hongxin Zhang, Qinhong Zhou, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan.* ICLR 2024.
 - [**Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs.**](https://arxiv.org/abs/2402.08005) *V´ıctor Gallego.* Arxiv 2024.
 - [**Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models**](https://arxiv.org/abs/2406.13542) *Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou* Arxiv 2024.
+-  [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) *Leonardo Ranaldi, Andre Freitas* EACL 2024.
 
 
 ### 3.5. Reward Modeling
 - [**West-of-N: Synthetic Preference Generation for Improved Reward Modeling.**](https://arxiv.org/abs/2401.12086) *Alizée Pace, Jonathan Mallinson, Eric Malmi, Sebastian Krause, Aliaksei Severyn.* Arxiv 2024.
+- [**Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models.**](https://arxiv.org/pdf/2405.00402) *Leonardo Ranaldi, Andre Freitas.* EMNLP 2024.
+
 
 ### 3.6. Long Context
 - [**Make Your LLM Fully Utilize the Context.**](https://arxiv.org/abs/2404.16811) *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.* Arxiv 2024.
