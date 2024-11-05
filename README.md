@@ -95,6 +95,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement**](https://arxiv.org/abs/2402.14658) *Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen, Xiang Yue.* Arxiv 2024.
 - [**AutoCoder: Enhancing Code Large Language Model with AIEV-Instruct**](https://arxiv.org/abs/2405.14906) *Bin Lei, Yuchen Li, Qiuwu Chen.* Arxiv 2024.
 - [**How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data**](https://www.arxiv.org/abs/2409.03810) *Yejie Wang, Keqing He, Dayuan Fu, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu.* Arxiv 2024.
+- [**SelfCodeAlign: Self-Alignment for Code Generation**](https://arxiv.org/abs/2410.24198) *Yuxiang Wei, Federico Cassano, Jiawei Liu, Yifeng Ding, Naman Jain, Zachary Mueller, Harm de Vries, Leandro von Werra, Arjun Guha, Lingming Zhang.* Arxiv 2024.
 
 ### 3.3. Text-to-SQL
 - [**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**](https://arxiv.org/abs/2408.03256) *Jiaxi Yang, Binyuan Hui, Min Yang, Jian Yang, Junyang Lin, Chang Zhou.* ACL 2024.
