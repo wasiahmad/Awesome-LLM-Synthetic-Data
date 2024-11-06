@@ -17,24 +17,26 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Contents
 
-* [1. Surveys](#11-Surveys)
-* [2. Methods](#2-Methods)
-  * [2.1 Techniques](#21-Techniques)
-  * [2.2 Instruction Generation with High Quality/Complexity](#22-Instruction-Generation-with-High-QualityComplexity)
-* [3. Application Areas](#3-Application-Areas)
-  * [3.1 Mathematical Reasoning](#31-Mathematical-Reasoning)
-  * [3.2 Code Generation](#32-Code-Generation)
-  * [3.3 Text-to-SQL](#33-Text-to-SQL)
-  * [3.4 Alignment](#34-Alignment)
-  * [3.5 Reward Modeling](#35-Reward-Modeling)
-  * [3.6 Long Context](#36-Long-Context)
-  * [3.7 Weak to Strong](#37-Weak-to-Strong)
-  * [3.8 Agent and Tool Use](#38-Agent-and-Tool-Use)
-  * [3.9 Vision and Language](#39-Vision-and-Language)
-  * [3.10 Factuality](#310-Factuality)
-* [4. Datasets](#4-Datasets)
-* [5. Tools](#5-Tools)
-* [6. Blogs](#6-Blogs)
+- [Synthetic Data of LLMs, by LLMs, for LLMs](#synthetic-data-of-llms-by-llms-for-llms)
+  - [Contents](#contents)
+    - [1. Surveys](#1-surveys)
+  - [2. Methods](#2-methods)
+    - [2.1. Techniques](#21-techniques)
+    - [2.2. Instruction Generation with High Quality/Complexity](#22-instruction-generation-with-high-qualitycomplexity)
+  - [3. Application Areas](#3-application-areas)
+    - [3.1. Mathematical Reasoning](#31-mathematical-reasoning)
+    - [3.2. Code Generation](#32-code-generation)
+    - [3.3. Text-to-SQL](#33-text-to-sql)
+    - [3.4. Alignment](#34-alignment)
+    - [3.5. Reward Modeling](#35-reward-modeling)
+    - [3.6. Long Context](#36-long-context)
+    - [3.7. Weak-to-Strong](#37-weak-to-strong)
+    - [3.8. Agent and Tool Use](#38-agent-and-tool-use)
+    - [3.9. Vision and Language](#39-vision-and-language)
+    - [3.10. Factuality](#310-factuality)
+  - [4. Datasets](#4-datasets)
+  - [5. Tools](#5-tools)
+  - [6. Blogs](#6-blogs)
 
 ### 1. Surveys
 
@@ -67,6 +69,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources**](https://arxiv.org/abs/2409.08239) *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli* Arxiv 2024.
 - [**Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation**](https://arxiv.org/abs/2402.18334) *Nihal V. Nayak, Yiyang Nan, Avi Trost, Stephen H. Bach* ACL Findings 2024.
 - [**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**](https://arxiv.org/abs/2406.08464) *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin* Arxiv 2024.
+- [**On the Diversity of Synthetic Data and its Impact on Training Large Language Models**](https://arxiv.org/abs/2410.15226)  *Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin* Arxiv 2024.
 
 ### 2.2. Instruction Generation with High Quality/Complexity
 
