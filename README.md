@@ -161,3 +161,4 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - [**Synthetic dataset generation techniques: Self-Instruct**](https://huggingface.co/blog/davanstrien/self-instruct) *Daniel van Strien.* 2024
 - [**LLM-Driven Synthetic Data Generation, Curation & Evaluation**](https://cobusgreyling.medium.com/llm-driven-synthetic-data-generation-curation-evaluation-33731e33b525) *Cobus Greyling.* 2024
 - [**The Rise of Agentic Data Generation**](https://huggingface.co/blog/mlabonne/agentic-datagen) *Maxime Labonne.* 2024
+- [**Evals for Diversity in Synthetic Data**](https://amitness.com/posts/diversity-evals/) *Amit Chaudhary.* 2025
